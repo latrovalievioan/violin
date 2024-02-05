@@ -22,23 +22,25 @@
 
 ## Cycle of 5ths/Voice leading (Var. 1) ~ 20 min.
 ### Triads
-- UP I -> DOWN III.
-- UP III -> DOWN I.
-- DOWN V -> chromatic approach and UP from III.
+- UP I -> DOWN III. - 100bpm
+- UP III -> DOWN I. - 100bpm
+- DOWN V -> chromatic approach and UP from III. - 80bpm
 - Two string voice leading:
-    - On G and D string.
-    - On A and E string.
+    - On G and D string. - 60bpm
+    - On D and A string. - 60bpm
+    - On A and E string. - 60bpm
 
 ### Tetrads
-- V7 arpegios.
-- I-down VII#-VII-I.
-- III-V-I-down VII -> III-V-pivot I-down VII.
-- UP I-II-III-V -> DOWN I-VII-V-II.
-- DOWN III-I-III -> chromatic from above I-III-V -> chromatic from below to III.
-- UP III-V-VII-IXb -> DOWN V-III-I-VII.
+- V7 arpegios. - 60bpm
+- I-down VII#-VII-I. - 60bpm
+- III-V-I-down VII -> III-V-pivot I-down VII. - 60bpm
+- UP I-II-III-V -> DOWN I-VII-V-II. - 60bpm
+- DOWN III-I-III -> chromatic from above I-III-V -> chromatic from below to III. - 60bpm
+- UP III-V-VII-IXb -> DOWN V-III-I-VII. - 60bpm
 - Double stops I-III VII-III:
-    - On G and D string.
-    - On A and E string.
+    - On G and D string. - 60bpm
+    - On D and A string. - 60bpm
+    - On A and E string. - 60bpm
 
 ## Random chord challange:
 Pick a Row from below and perform the following for each column:
@@ -82,3 +84,6 @@ Pick a key and perform the following for each of the triad pairs:
 - Up/Down arpegios
 - Up/Up arpegios
 - III - down I - III - V arpegios
+
+
+608
